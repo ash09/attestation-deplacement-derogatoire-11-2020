@@ -1,0 +1,6 @@
+flask
+PyPDF2
+qrcode
+numpy
+matplotlib
+

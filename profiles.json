@@ -1,0 +1,11 @@
+{
+	"john": {
+		"firstname": "John",
+		"lastname": "Smith",
+		"birthday": "01/01/1970",
+		"city": "Paris",
+		"placeofbirth": "Paris",
+		"zipcode": "75000",
+		"address": "1 place de la République"
+	}
+}
